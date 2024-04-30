@@ -577,6 +577,11 @@
         }
     }
     .prem{
+      .text{
+        ul{
+          color:white;
+        }
+      }
       @media (max-width:991px) {
         transform: translateY(0px);
         -webkit-transform: translateY(0px);
